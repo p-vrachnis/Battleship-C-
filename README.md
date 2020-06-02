@@ -1,2 +1,2 @@
 # Battleship-C--
- Battleship Game with C++
+ A Battleship Game
